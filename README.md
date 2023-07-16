@@ -29,7 +29,7 @@
 * Modify the config.json to send sms with fake sms sender
 
 # Solutions :
-* Solution 1 using USRP
+* Solution 1 using USRP  
 (more stable and no need synchronization of existing BTS so if we jam the existing BTS the half mitm still exists)
 ```
 wget https://raw.githubusercontent.com/SitrakaResearchAndPOC/nitb-script-all/main/osmo-nitb-scripts.zip
