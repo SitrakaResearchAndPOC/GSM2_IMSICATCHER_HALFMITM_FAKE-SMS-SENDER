@@ -165,9 +165,3 @@ Relaunch all setup but use this command instead of python3 main.py
 ```
 python3 main.py -u -c config.json
 ```
-
-
-
-
-
-DDfdsgdsgsgs
