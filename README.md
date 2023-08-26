@@ -138,7 +138,7 @@ And finding the arfcn that this one is connect
 Let's name this arfcn as 975  
 Configure arfcn at service/osmotrx.lms as 975
 ```
-gedit service/osmotrx.lms
+gedit services/osmo-trx-lms3.service 
 ```
 Save the configuration
 ```
